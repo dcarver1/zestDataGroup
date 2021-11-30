@@ -1,0 +1,16 @@
+Package: zestDataGroup
+Title: Data Processing Functions for Zest Data Group
+Version: 0.0.0.9000
+Authors@R: 
+    person("Dan", "Carver", , "carver.dan1@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Stores all the processing functions connected to the data processing work within Zest Data group. This is a privite repo for the time being.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
+Imports: 
+    dplyr,
+    sf,
+    stringr,
+    tmap
