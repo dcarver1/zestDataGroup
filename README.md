@@ -11,7 +11,7 @@ The goal of zestDataGroup is to hold all the processing function for the generat
 You can install the development version of zestDataGroup like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+devtools::install_github("dcarver1/zestDataGroup")
 ```
 
 ## Example
